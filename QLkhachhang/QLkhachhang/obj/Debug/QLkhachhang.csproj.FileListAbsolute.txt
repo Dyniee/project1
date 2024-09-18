@@ -1,0 +1,7 @@
+D:\HUYNHTHIMYDUYEN\CNPM\QLkhachhang\QLkhachhang\bin\Debug\QLkhachhang.exe.config
+D:\HUYNHTHIMYDUYEN\CNPM\QLkhachhang\QLkhachhang\bin\Debug\QLkhachhang.exe
+D:\HUYNHTHIMYDUYEN\CNPM\QLkhachhang\QLkhachhang\bin\Debug\QLkhachhang.pdb
+D:\HUYNHTHIMYDUYEN\CNPM\QLkhachhang\QLkhachhang\obj\Debug\QLkhachhang.csproj.AssemblyReference.cache
+D:\HUYNHTHIMYDUYEN\CNPM\QLkhachhang\QLkhachhang\obj\Debug\QLkhachhang.csproj.CoreCompileInputs.cache
+D:\HUYNHTHIMYDUYEN\CNPM\QLkhachhang\QLkhachhang\obj\Debug\QLkhachhang.exe
+D:\HUYNHTHIMYDUYEN\CNPM\QLkhachhang\QLkhachhang\obj\Debug\QLkhachhang.pdb
