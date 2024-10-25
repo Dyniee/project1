@@ -1,0 +1,14 @@
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\bin\Debug\net8.0\StoreKoiFish.Reponsitories.deps.json
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\bin\Debug\net8.0\StoreKoiFish.Reponsitories.runtimeconfig.json
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\bin\Debug\net8.0\StoreKoiFish.Reponsitories.dll
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\bin\Debug\net8.0\StoreKoiFish.Reponsitories.pdb
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\obj\Debug\net8.0\StoreKoiFish.Reponsitories.csproj.AssemblyReference.cache
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\obj\Debug\net8.0\StoreKoiFish.Reponsitories.GeneratedMSBuildEditorConfig.editorconfig
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\obj\Debug\net8.0\StoreKoiFish.Reponsitories.AssemblyInfoInputs.cache
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\obj\Debug\net8.0\StoreKoiFish.Reponsitories.AssemblyInfo.cs
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\obj\Debug\net8.0\StoreKoiFish.Reponsitories.csproj.CoreCompileInputs.cache
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\obj\Debug\net8.0\StoreKoiFish.Reponsitories.dll
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\obj\Debug\net8.0\refint\StoreKoiFish.Reponsitories.dll
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\obj\Debug\net8.0\StoreKoiFish.Reponsitories.pdb
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\obj\Debug\net8.0\StoreKoiFish.Reponsitories.genruntimeconfig.cache
+D:\KoiSroreASP.net\StoreKoiFish\StoreKoiFish.Reponsitories\obj\Debug\net8.0\ref\StoreKoiFish.Reponsitories.dll

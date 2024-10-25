@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\StoreKoiFish.WebApplication.props" />
+</Project>
